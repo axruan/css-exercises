@@ -12,7 +12,6 @@ body {
   font-size: 22px;
 }
 
-
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
@@ -35,8 +34,6 @@ div.text {
   color: white;
   font-weight: bold;
 } 
-
-
 
 div .child {
   color: rgb(0, 0, 0);
